@@ -2,7 +2,7 @@ import { motion } from 'framer-motion';
 import { useInView } from 'framer-motion';
 import { useRef } from 'react';
 import profileImage from '@/assets/nitchu.jpg';
-import { CardBody, CardContainer, CardItem } from "@/components/ui/3d-card"
+import { CardBody, CardContainer, CardItem } from "@/components/ui/3D-card"
 import { BentoGrid, BentoGridItem } from "@/components/ui/bento-grid";
 
 const About = () => {
